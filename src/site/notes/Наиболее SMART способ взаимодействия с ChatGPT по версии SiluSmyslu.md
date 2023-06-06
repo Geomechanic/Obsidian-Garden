@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/naibolee-smart-sposob-vzaimodejstviya-s-chat-gpt-po-versii-silu-smyslu/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/Наиболее SMART способ взаимодействия с ChatGPT по версии SiluSmyslu/","tags":["gardenEntry"]}
 ---
 
 Отвечай, как опытный программист на питоне и пользователь blender 3.4.
